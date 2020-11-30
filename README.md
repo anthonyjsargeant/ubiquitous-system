@@ -1,2 +1,2 @@
-# ubiquitous-system
-A piece of code that needs refactoring.
+# Payday
+A piece of code that returns when payday is.
